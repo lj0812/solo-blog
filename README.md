@@ -13,7 +13,7 @@ Herman
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/lj0812/solo-blog.svg"></a></p>
 
-### 最新
+## 最新
 
 * [页面优化](https://blog.hereis.me/articles/2020/05/10/1589125294667.html)
 * [关于setTimeout的小“秘密”](https://blog.hereis.me/articles/2020/04/28/1588069259467.html)
@@ -28,6 +28,10 @@ Herman
 * [JavaScript语言原理](https://blog.hereis.me/articles/2019/07/30/1564472176508.html)
 * [HTTP状态码](https://blog.hereis.me/articles/2019/07/30/1564471932272.html)
 * [SASS基础入门](https://blog.hereis.me/articles/2019/07/30/1564470103203.html)
+
+## Vue
+
+[Vue系列-生命周期](https://blog.hereis.me/articles/2020/05/11/1589208476284.html)
 
 
 <!-- --- -->
