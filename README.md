@@ -28,6 +28,7 @@ Herman
 * [JavaScript语言原理](https://blog.hereis.me/articles/2019/07/30/1564472176508.html)
 * [HTTP状态码](https://blog.hereis.me/articles/2019/07/30/1564471932272.html)
 * [SASS基础入门](https://blog.hereis.me/articles/2019/07/30/1564470103203.html)
+* [模块化小讲](https://blog.hereis.me/articles/2020/05/23/1590241051803.html)
 
 ## Vue
 
