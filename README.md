@@ -35,7 +35,8 @@ Herman
 
 ## Vue
 
-[Vue系列-生命周期](https://blog.hereis.me/articles/2020/05/11/1589208476284.html)
+* [Vue系列-生命周期](https://blog.hereis.me/articles/2020/05/11/1589208476284.html)
+* [Vue系列-key的作用](https://blog.hereis.me/articles/2020/05/28/1590677252191.html)
 
 
 <!-- --- -->
