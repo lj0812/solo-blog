@@ -1,4 +1,4 @@
-<p align="center"><img alt="Herman" src="https://static.b3log.org/images/brand/solo-128.png"></p><h2 align="center">
+<p align="center"><img alt="Herman" src="https://www.hereis.me/favicon.ico"></p><h2 align="center">
 Herman
 </h2>
 
